@@ -1,0 +1,64 @@
+@font-face {
+    font-family:'primary-DiavloBold';
+    src: url('../fonts/DiavloBold-Regular.eot');
+    src: url('../fonts/DiavloBold-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DiavloBold-Regular.woff2') format('woff2'),
+        url('../fonts/DiavloBold-Regular.woff') format('woff'),
+        url('../fonts/DiavloBold-Regular.ttf') format('truetype'),
+        url('../fonts/DiavloBold-Regular.svg#DiavloBold-Regular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'primary-DiavloLight';
+    src: url('../fonts/DiavloLight-Regular.eot');
+    src: url('../fonts/DiavloLight-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DiavloLight-Regular.woff2') format('woff2'),
+        url('../fonts/DiavloLight-Regular.woff') format('woff'),
+        url('../fonts/DiavloLight-Regular.ttf') format('truetype'),
+        url('../fonts/DiavloLight-Regular.svg#DiavloLight-Regular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'primary-DiavloBook';
+    src: url('../fonts/DiavloBook-Regular.eot');
+    src: url('../fonts/DiavloBook-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DiavloBook-Regular.woff2') format('woff2'),
+        url('../fonts/DiavloBook-Regular.woff') format('woff'),
+        url('../fonts/DiavloBook-Regular.ttf') format('truetype'),
+        url('../fonts/DiavloBook-Regular.svg#DiavloBook-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'primary-DiavloMedium';
+    src: url('../fonts/DiavloMedium-Regular.eot');
+    src: url('../fonts/DiavloMedium-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DiavloMedium-Regular.woff2') format('woff2'),
+        url('../fonts/DiavloMedium-Regular.woff') format('woff'),
+        url('../fonts/DiavloMedium-Regular.ttf') format('truetype'),
+        url('../fonts/DiavloMedium-Regular.svg#DiavloMedium-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'primary-DiavloBlack';
+    src: url('../fonts/DiavloBlack-Regular.eot');
+    src: url('../fonts/DiavloBlack-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DiavloBlack-Regular.woff2') format('woff2'),
+        url('../fonts/DiavloBlack-Regular.woff') format('woff'),
+        url('../fonts/DiavloBlack-Regular.ttf') format('truetype'),
+        url('../fonts/DiavloBlack-Regular.svg#DiavloBlack-Regular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
